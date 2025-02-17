@@ -2,6 +2,10 @@
 
 A modern web application for managing Chama (Investment Group) activities, built with React, TypeScript, Tailwind CSS, and Supabase.
 
+<div align="center">
+  <img src="assets/screenshots/register-page.png" alt="Chama WebApp Register Page" width="600"/>
+</div>
+
 ## Features
 
 - 🔐 Secure Authentication System
